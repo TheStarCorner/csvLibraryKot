@@ -15,10 +15,8 @@ I have used Kotlin for this project.
 
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3 Schools](https://www.w3schools.com/kotlin/index.php)
+* [Codecademy](https://www.codecademy.com/learn)
 
 # Future Work
 
